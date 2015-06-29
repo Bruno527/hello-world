@@ -1,2 +1,2 @@
 # hello-world
-Hello World tutorial project
+This project was completed as part of the introductory Hello World tutorial.
